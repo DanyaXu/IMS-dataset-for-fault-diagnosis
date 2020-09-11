@@ -1,6 +1,7 @@
 # IMS-dataset-for-fault-diagnosis
 IMS dataset for fault diagnosis include NA，IF，OF，BF.
 IMS轴承数据集链接：https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/
+
 相关论文：
 Analysis of the Rolling Element Bearing data set of the Center for Intelligent Maintenance Systems of the University of Cincinnati
 Wavelet filter-based weak signature detection method and its application on rolling element bearing prognostics
