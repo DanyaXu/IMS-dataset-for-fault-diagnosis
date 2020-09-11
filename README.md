@@ -5,10 +5,10 @@ IMS轴承数据集链接：https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognos
 Analysis of the Rolling Element Bearing data set of the Center for Intelligent Maintenance Systems of the University of Cincinnati
 Wavelet filter-based weak signature detection method and its application on rolling element bearing prognostics
 
-NA: 1st/2003.10.22.12.06.24 ~ 2003.10.22.12.29.13 列1
+Normal: 1st/2003.10.22.12.06.24 ~ 2003.10.22.12.29.13 列1
 
-IF: 1st/2003.11.25.15.57.32 ~ 2003.11.25.23.39.56 列5
+Inner Race Failure: 1st/2003.11.25.15.57.32 ~ 2003.11.25.23.39.56 列5
 
-OF: 2st/2004.02.19.05.32.39 ~ 2004.02.19.06.22.39 列1
+Outer Race Failure: 2st/2004.02.19.05.32.39 ~ 2004.02.19.06.22.39 列1
 
-BF: 1st/2003.11.25.15.57.32 ~ 2003.11.25.23.39.56 列7
+Roller Element Defect: 1st/2003.11.25.15.57.32 ~ 2003.11.25.23.39.56 列7
